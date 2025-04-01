@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a Software Engineer passionate about backend systems, including distributed systems, system design, and high-performance architectures.
+
+I thrive on deep technical exploration, continuously learning and breaking down complex systems to understand their scalability, reliability, and performance.
+
+I’m particularly interested in systems design and architecture and I’m eager to apply my skills to high-impact backend engineering challenges, optimizing systems for scale and efficiency.
+
 <!--
 **onyeepeace/onyeepeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
